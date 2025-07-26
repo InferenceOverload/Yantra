@@ -1,0 +1,80 @@
+HARTFORD HOSPITAL
+EMERGENCY DEPARTMENT BILL
+
+PATIENT: Jennifer Davis
+DOB: 07/28/1990
+SSN: XXX-XX-6789
+ADDRESS: 456 Elm Street, Hartford, CT 06103
+PHONE: (860) 555-0456
+
+INSURANCE INFORMATION:
+Primary: Hartford Insurance Company
+Policy Number: POL-HTF-789012
+Claim Number: CLM-2025-001
+Group: AUTO-PIP
+
+DATE OF SERVICE: January 15, 2025
+TIME: 15:45 - 18:30
+PROVIDER: Dr. Emily Rodriguez, MD
+FACILITY: Hartford Hospital Emergency Department
+
+DIAGNOSIS CODES:
+S13.4XXA - Sprain of ligaments of cervical spine, initial encounter
+S43.401A - Unspecified sprain of right shoulder joint, initial encounter
+Z87.891  - Personal history of nicotine dependence
+
+PRESENTING COMPLAINT:
+Patient is a 34-year-old female involved in motor vehicle collision approximately 1 hour ago. Complains of neck pain rated 6/10 and right shoulder pain rated 5/10. No loss of consciousness. Wearing seatbelt at time of impact.
+
+TREATMENT PROVIDED:
+
+EMERGENCY DEPARTMENT SERVICES:
+99284 - Level 4 ED Visit (High Complexity)    $485.00
+
+DIAGNOSTIC IMAGING:
+72141 - MRI Cervical Spine w/o contrast        $1,250.00
+73020 - X-Ray Shoulder, 2 Views               $185.00
+70450 - CT Head w/o contrast                  $650.00
+
+MEDICATIONS ADMINISTERED:
+J1100 - Dexamethasone 1mg injection          $25.00
+J2315 - Morphine 10mg injection               $15.00
+
+SUPPLIES:
+A4550 - Surgical trays                        $35.00
+Cervical collar                               $45.00
+
+LABORATORY:
+80053 - Comprehensive metabolic panel         $85.00
+85025 - Complete blood count                  $55.00
+
+TREATMENT SUMMARY:
+Patient evaluated for neck and shoulder pain following MVA. Imaging studies reveal mild cervical strain without fracture or disc herniation. Right shoulder shows soft tissue swelling without dislocation. Patient treated with anti-inflammatory medication and pain management. Cervical collar applied for support.
+
+DISPOSITION:
+Patient discharged home in stable condition with cervical collar. Follow up with primary care physician in 3-5 days. Return if symptoms worsen.
+
+MEDICATIONS PRESCRIBED:
+- Ibuprofen 600mg TID x 10 days
+- Cyclobenzaprine 10mg TID x 5 days
+- Hydrocodone/APAP 5/325 PRN pain
+
+BILLING SUMMARY:
+Emergency Services:                           $485.00
+Diagnostic Imaging:                         $2,085.00
+Medications:                                  $40.00
+Supplies:                                     $80.00
+Laboratory:                                  $140.00
+
+SUBTOTAL:                                   $2,830.00
+Insurance Adjustment:                        -$850.00
+PATIENT RESPONSIBILITY:                     $1,980.00
+
+BILLING QUESTIONS: (860) 545-2000
+PAYMENT DUE: Net 30 Days
+
+This bill represents emergency medical treatment related to motor vehicle accident on 01/15/2025. All services medically necessary and related to documented injuries.
+
+ATTENDING PHYSICIAN: Dr. Emily Rodriguez, MD
+LICENSE: CT-MD-45678
+DATE: January 15, 2025

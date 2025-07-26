@@ -30,6 +30,7 @@ try:
     from .agents.coverage_verification_agent import create_coverage_verification_agent
     from .agents.fraud_detection_agent import create_fraud_detection_agent
     from .agents.settlement_calculation_agent import create_settlement_calculation_agent
+    from .agents.dynamic_rag_orchestrator import create_dynamic_rag_agent
 except ImportError:
     # Fallback to direct imports
     import sys
@@ -40,6 +41,7 @@ except ImportError:
     from agents.coverage_verification_agent import create_coverage_verification_agent
     from agents.fraud_detection_agent import create_fraud_detection_agent
     from agents.settlement_calculation_agent import create_settlement_calculation_agent
+    from agents.dynamic_rag_orchestrator import create_dynamic_rag_agent
 
 # Set up environment
 _, project_id = google.auth.default()
@@ -53,6 +55,7 @@ data_extraction_agent = create_data_extraction_agent()
 coverage_verification_agent = create_coverage_verification_agent()
 fraud_detection_agent = create_fraud_detection_agent()
 settlement_calculation_agent = create_settlement_calculation_agent()
+dynamic_rag_agent = create_dynamic_rag_agent()
 
 # Create the Root Coordinator Agent - Main export for starter pack
 root_agent = Agent(
@@ -69,11 +72,12 @@ root_agent = Agent(
     
     ✅ ACTIVE SPECIALISTS:
     • Intake Validation Agent - Validates new claim submissions for policy compliance and eligibility
+    • Data Extraction Agent - Hybrid AI processing with Document AI + Dynamic RAG
+    • Fraud Detection Agent - ML-powered risk assessment with BigQuery analytics
+    • Dynamic RAG Orchestrator - On-demand intelligent document analysis engine
     
     🚧 SPECIALISTS IN DEVELOPMENT:
-    • Data Extraction Agent - Will process documents, images, and unstructured data
     • Coverage Verification Agent - Will verify policy coverage and calculate limits  
-    • Fraud Detection Agent - Will perform comprehensive fraud risk assessment
     • Settlement Calculation Agent - Will calculate settlement amounts and approval routing
     
     💼 HOW YOU WORK:
@@ -90,8 +94,11 @@ root_agent = Agent(
     - "policy POL-12345", "is my claim eligible", "duplicate claims"
     - "incident timing", "required information", "claim requirements"
     
-    📄 DOCUMENT PROCESSING → Coordinate with Data Extraction Agent (coming soon)
+    📄 DOCUMENT PROCESSING → Coordinate with Data Extraction Agent & RAG Orchestrator
     - "process this document", "extract data", "analyze damage photos"
+    - "analyze all documents intelligently", "check for inconsistencies across documents"
+    - "is this claim ready for RAG analysis?", "create intelligent document analysis"
+    - "ask questions about claim documents", "find missing information"
     
     🛡️ COVERAGE QUESTIONS → Coordinate with Coverage Verification Agent (coming soon)
     - "am I covered", "coverage limits", "what's excluded"
@@ -126,6 +133,7 @@ root_agent = Agent(
         data_extraction_agent, 
         coverage_verification_agent,
         fraud_detection_agent,
-        settlement_calculation_agent
+        settlement_calculation_agent,
+        dynamic_rag_agent
     ]
 )

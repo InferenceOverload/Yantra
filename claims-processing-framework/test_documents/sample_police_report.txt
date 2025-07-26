@@ -1,0 +1,64 @@
+POLICE INCIDENT REPORT
+
+REPORT NUMBER: PR-2025-0856
+DATE: 2025-01-15
+TIME: 14:30:00
+LOCATION: Main Street & Oak Avenue, Hartford, CT
+
+OFFICER: Officer Sarah Johnson, Badge #4521
+DEPARTMENT: Hartford Police Department
+
+INCIDENT TYPE: Motor Vehicle Accident
+
+PARTIES INVOLVED:
+
+PARTY 1 (Driver):
+Name: Michael Thompson
+DOB: 1985-03-12
+License: CT-987654321
+Phone: (860) 555-0123
+Vehicle: 2020 Honda Accord, Blue
+VIN: 1HGBX12345A123456
+License Plate: ABC-1234
+Insurance: Hartford Insurance, Policy: POL-HTF-789012
+
+PARTY 2 (Driver):
+Name: Jennifer Davis
+DOB: 1990-07-28
+License: CT-654321987
+Phone: (860) 555-0456
+Vehicle: 2018 Toyota Camry, Silver
+VIN: 4T1BE12345B654321
+License Plate: XYZ-5678
+Insurance: State Farm, Policy: SF-456789
+
+ACCIDENT DESCRIPTION:
+At approximately 2:30 PM, Vehicle 1 (Honda Accord) was traveling eastbound on Main Street approaching the intersection with Oak Avenue. Vehicle 2 (Toyota Camry) was traveling northbound on Oak Avenue. 
+
+Driver 1 stated that he had a green light when entering the intersection. Driver 2 claimed she also had a green light when proceeding through the intersection.
+
+Traffic light malfunction was reported by witness at scene. Signal was stuck showing green for both directions.
+
+DAMAGE ASSESSMENT:
+Vehicle 1: Significant front-end damage, deployed airbags, windshield cracked
+Vehicle 2: Driver side damage, door will not open, minor injuries to driver
+
+INJURIES:
+Driver 2 (Jennifer Davis): Complained of neck and shoulder pain, transported to Hartford Hospital by ambulance
+
+WITNESSES:
+1. Robert Wilson, (860) 555-0789, observed from sidewalk
+2. Maria Garcia, (860) 555-0321, driver in adjacent lane
+
+CITATIONS ISSUED: None pending traffic signal investigation
+
+OFFICER REMARKS:
+Both drivers appeared sober and cooperative. No evidence of distracted driving. Traffic signal malfunction appears to be contributing factor. City maintenance notified.
+
+PHOTOS TAKEN: Yes, 8 photos of vehicles and intersection
+TOWED: Vehicle 1 towed to Mike's Auto Body
+       Vehicle 2 towed to Central Towing
+
+REPORT COMPLETED BY: Officer Sarah Johnson
+DATE: 2025-01-15
+TIME: 16:45:00

@@ -1,0 +1,73 @@
+MIKE'S AUTO BODY REPAIR ESTIMATE
+
+ESTIMATE NUMBER: EST-2025-0342
+DATE: 2025-01-16
+CUSTOMER: Michael Thompson
+PHONE: (860) 555-0123
+INSURANCE: Hartford Insurance
+CLAIM#: CLM-2025-001
+POLICY: POL-HTF-789012
+
+VEHICLE INFORMATION:
+Year: 2020
+Make: Honda
+Model: Accord EX-L
+VIN: 1HGBX12345A123456
+License: ABC-1234
+Color: Obsidian Blue Pearl
+Mileage: 45,678
+
+DAMAGE ASSESSMENT:
+Primary Impact: Front End Collision
+Secondary Damage: Airbag Deployment
+
+PARTS REQUIRED:
+- Front Bumper Cover                    $485.00
+- Hood Assembly                         $675.00
+- Right Headlight Assembly             $425.00
+- Left Headlight Assembly              $425.00
+- Front Grille                         $275.00
+- Radiator                             $350.00
+- A/C Condenser                        $285.00
+- Windshield                           $325.00
+- Driver Airbag                        $850.00
+- Passenger Airbag                     $850.00
+- Airbag Control Module                $450.00
+
+LABOR REQUIRED:
+- Remove/Install Front Bumper           4.5 hrs @ $95/hr = $427.50
+- Remove/Install Hood                   2.0 hrs @ $95/hr = $190.00
+- Remove/Install Headlights             1.5 hrs @ $95/hr = $142.50
+- Remove/Install Grille                 1.0 hrs @ $95/hr = $95.00
+- Remove/Install Radiator               3.0 hrs @ $95/hr = $285.00
+- Remove/Install A/C Condenser          2.5 hrs @ $95/hr = $237.50
+- Windshield Replacement                2.0 hrs @ $95/hr = $190.00
+- Airbag System Service                 4.0 hrs @ $95/hr = $380.00
+- Body Work and Painting                8.0 hrs @ $95/hr = $760.00
+- Frame Inspection/Alignment            2.0 hrs @ $95/hr = $190.00
+
+PAINT AND MATERIALS:
+- Primer, Paint, Clear Coat             $385.00
+- Miscellaneous Supplies                $125.00
+
+SUBTOTALS:
+Parts Total:                           $5,395.00
+Labor Total:                           $2,897.50
+Paint/Materials Total:                   $510.00
+
+SUBTOTAL:                              $8,802.50
+Sales Tax (6.35%):                       $558.96
+TOTAL ESTIMATE:                        $9,361.46
+
+ADDITIONAL NOTES:
+- All parts are OEM Honda genuine parts
+- Paint match guaranteed for 3 years
+- All work carries 12-month warranty
+- Estimated completion: 7-10 business days
+- Rental car recommendation: Enterprise
+
+PREPARED BY: Mike Rodriguez, Owner
+CERTIFIED TECHNICIAN: ASE Master Certified
+DATE: 2025-01-16
+
+This estimate is valid for 30 days. Final cost may vary based on additional damage discovered during repair process.
